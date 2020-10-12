@@ -9,10 +9,9 @@ Master of Engineer in Electrical and Computer Engineering; Major in Machine Lear
 - Member of HKN
 
 
-## Education-Bachelor
+
 ### Southwest Jiaotong University (“SWJTU”)
-School of Electrical Engineering,                                                                                          
-Bachelor of Engineering in Electrical Engineering and Automation 
+School of Electrical Engineering,Bachelor of Engineering in Electrical Engineering and Automation 
 - Major GPA: 3.92/4.00
 - Scholarship: The First Prize Scholarship (Top 5% in the Engineering School)
 - Honor: Outstanding Student Leader, Merit Student, Chinese Control Conference Outstanding Volunteer, etc.
