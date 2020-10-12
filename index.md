@@ -52,7 +52,7 @@ Team leader, National Laboratory for Rail Transportation, SWJTU, Chengdu, China 
 •	Simulated and analyzed the system malfunction with Schneider simulation platform.
 
 
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
