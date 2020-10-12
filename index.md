@@ -33,18 +33,22 @@ C#, Python, React, Java, C/C++, TensorFlow, SQL, SQL server, AWS, Tableau, OpenC
 - Developed an RNN model to separate human voice from music, reduced 43% time cost than using matrix factorization theory.
 - Under the matrix factorization theory, implemented non-negative matrix factorization, robust principal component analysis and low-rank decomposition, which increased 30% model stability.
 - Built an HMM judgement system which increased the success rate up to 96%. 
+
 ### Team Leader, Computer Vision Project, Virginia Tech, Falls Church, VA, Sep - Dec 2019
 - Used OpenCv to separate images based on image material and track dynamic images.
 - Established image material library as filter which significantly decreased time cost. 
 - Used KLT method to track dynamic images effectively increased the stability to 92%.
 - Built an image separator based on SkLearn, which has 91% success rate.
+
 ### Graduation Project, SWJTU, Chengdu, China, 2018 - 2019
 - Hardware Design and Implementation of Digital Insulation Resistance Tester.
 - Designed printed circuit board (“PCB”) which reduced the cost by 42% and the volume by 20% under the market general measuring instrument.
 - Tested designed hardware in harsh environment, including extreme temperature ranges, electric, magnetic, etc.
+
 ### Researcher, Schneider Electric Research Lab, SWJTU, Chengdu, China, 2017 - 2018
 - Assisted Dr. Lin Sheng and PHD students in Schneider Electric Research Lab for the entire junior year.
 - Researched in Fault Diagnosis System of Circuit Breaker Based on Vibration Signal.
+
 ### Team leader, National Laboratory for Rail Transportation, SWJTU, Chengdu, China, 2016 - 2017
 - Performed Operation and Malfunction Analysis of Railway Power Distribution (“RPD”) System.
 - Designed circuits and simulated operation and malfunction of the RPD system using MATLAB-Simulink.
