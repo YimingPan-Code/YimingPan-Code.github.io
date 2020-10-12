@@ -3,7 +3,7 @@
 
 ## Education
 
-###Virginia Polytechnic Institute and State University (“Virginia Tech”)
+### Virginia Polytechnic Institute and State University (“Virginia Tech”)
 Master of Engineer in Electrical and Computer Engineering; Major in Machine Learning 
 - Cumulative GPA: 3.96/4.00
 - Relevant Courses: Deep Learning, Applied Machine Learning, Computer Vision, Optimization, etc.
