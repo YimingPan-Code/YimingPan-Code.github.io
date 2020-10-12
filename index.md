@@ -37,29 +37,16 @@ C#, Python, React, Java, C/C++, TensorFlow, SQL, SQL server, AWS, Tableau, OpenC
 - Established image material library as filter which significantly decreased time cost. 
 - Used KLT method to track dynamic images effectively increased the stability to 92%.
 - Built an image separator based on SkLearn, which has 91% success rate.
+### Graduation Project, SWJTU, Chengdu, China, 2018 - 2019
+- Hardware Design and Implementation of Digital Insulation Resistance Tester.
+- Designed printed circuit board (“PCB”) which reduced the cost by 42% and the volume by 20% under the market general measuring instrument.
+- Tested designed hardware in harsh environment, including extreme temperature ranges, electric, magnetic, etc.
+### Researcher, Schneider Electric Research Lab, SWJTU, Chengdu, China, 2017 - 2018
+- Assisted Dr. Lin Sheng and PHD students in Schneider Electric Research Lab for the entire junior year.
+- Researched in Fault Diagnosis System of Circuit Breaker Based on Vibration Signal.
+### Team leader, National Laboratory for Rail Transportation, SWJTU, Chengdu, China, 2016 - 2017
+- Performed Operation and Malfunction Analysis of Railway Power Distribution (“RPD”) System.
+- Designed circuits and simulated operation and malfunction of the RPD system using MATLAB-Simulink.
+- Simulated and analyzed the system malfunction with Schneider simulation platform.
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YimingPan-Code/YimingPan-Code.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
