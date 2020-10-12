@@ -1,12 +1,13 @@
 ## Yiming Pan
 
 
-### Education
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Virginia Polytechnic Institute and State University (“Virginia Tech”)
+•	Cumulative GPA: 3.96/4.00
+•	Relevant Courses: Deep Learning, Applied Machine Learning, Computer Vision, Optimization, etc.
+•	Member of HKN
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
