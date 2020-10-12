@@ -7,6 +7,7 @@ Master of Engineer in Electrical and Computer Engineering; Major in Machine Lear
 - Cumulative GPA: 3.96/4.00
 - Relevant Courses: Deep Learning, Applied Machine Learning, Computer Vision, Optimization, etc.
 - Member of HKN
+## 
 ### Southwest Jiaotong University (“SWJTU”)
 School of Electrical Engineering,                                                                                          
 Bachelor of Engineering in Electrical Engineering and Automation 
