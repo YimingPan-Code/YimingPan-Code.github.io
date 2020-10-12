@@ -4,9 +4,9 @@
 ## Education
 
 Virginia Polytechnic Institute and State University (“Virginia Tech”)
-•	Cumulative GPA: 3.96/4.00
-•	Relevant Courses: Deep Learning, Applied Machine Learning, Computer Vision, Optimization, etc.
-•	Member of HKN
+- Cumulative GPA: 3.96/4.00
+- Relevant Courses: Deep Learning, Applied Machine Learning, Computer Vision, Optimization, etc.
+- Member of HKN
 
 
 # Header 1
