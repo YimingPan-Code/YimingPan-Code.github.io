@@ -15,6 +15,10 @@ Bachelor of Engineering in Electrical Engineering and Automation
 - Scholarship: The First Prize Scholarship (Top 5% in the Engineering School)
 - Honor: Outstanding Student Leader, Merit Student, Chinese Control Conference Outstanding Volunteer, etc.
 
+## Programming Skills
+C#, Python, React, Java, C/C++, TensorFlow, SQL, SQL server, AWS, Tableau, OpenCV
+## Work Experience
+### Amazon, AWS,Software Development Engineer Summer Intern
 # Header 1
 ## Header 2
 ### Header 3
