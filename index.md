@@ -18,7 +18,7 @@ Bachelor of Engineering in Electrical Engineering and Automation
 ## Programming Skills
 C#, Python, React, Java, C/C++, TensorFlow, SQL, SQL server, AWS, Tableau, OpenCV
 ## Work Experience
-### Amazon, AWS,Software Development Engineer Summer Intern
+### [Amazon, AWS,Software Development Engineer Summer Intern](https://github.com/YimingPan-Code/Intern-final)
 - Developed serverless shopping website based on ASP.NET Core and AWS (API test success rate up to 97%).
 - Implemented online shopping website functions, including searching system, shopping cart, pre-ordering, AI recommendations, inventory and customer managing, invoicing system, etc.  
 - Established an authentication system which can load millions of users based on Cognito and Microsoft Identity.
