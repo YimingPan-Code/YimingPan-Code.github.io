@@ -19,6 +19,26 @@ Bachelor of Engineering in Electrical Engineering and Automation
 C#, Python, React, Java, C/C++, TensorFlow, SQL, SQL server, AWS, Tableau, OpenCV
 ## Work Experience
 ### Amazon, AWS,Software Development Engineer Summer Intern
+- Developed serverless shopping website based on ASP.NET Core and AWS (API test success rate up to 97%).
+- Implemented online shopping website functions, including searching system, shopping cart, pre-ordering, AI recommendations, inventory and customer managing, invoicing system, etc.  
+- Established an authentication system which can load millions of users based on Cognito and Microsoft Identity.
+- Designed entity relationship diagram of database which improved security, reduced redundancy, and kept data efficiency above 90%.
+- Improved website security through data ID encryption and user login status monitoring. 
+- Used Guid and session cookie to allow anonymous users to use the website.
+- Provided customized product recommendations to each customer by utilizing machine learning and performing big data analysis on each past purchase experience and browsing history.
+
+## Project Experience
+### Team Leader, Deep Learning Project, Virginia Tech, Falls Church, VA, Jan - May 2020
+- Developed an RNN model to separate human voice from music, reduced 43% time cost than using matrix factorization theory.
+- Under the matrix factorization theory, implemented non-negative matrix factorization, robust principal component analysis and low-rank decomposition, which increased 30% model stability.
+- Built an HMM judgement system which increased the success rate up to 96%. 
+### Team Leader, Computer Vision Project, Virginia Tech, Falls Church, VA, Sep - Dec 2019
+- Used OpenCv to separate images based on image material and track dynamic images.
+- Established image material library as filter which significantly decreased time cost. 
+- Used KLT method to track dynamic images effectively increased the stability to 92%.
+- Built an image separator based on SkLearn, which has 91% success rate.
+
+
 # Header 1
 ## Header 2
 ### Header 3
